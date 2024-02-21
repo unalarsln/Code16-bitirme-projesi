@@ -1,5 +1,9 @@
 # React + Vite
 
+
+In this project, pharmacies on duty in Bursa are listed.
+
+
 elements used:
 React dom
 Bootstrap
