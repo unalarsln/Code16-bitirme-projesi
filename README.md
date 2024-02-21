@@ -1,7 +1,7 @@
 # React + Vite
 
 elements used:
-
+React dom
 Bootstrap
 json-server
 google map api
