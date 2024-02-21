@@ -1,0 +1,54 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1573883431205-98b5f10aaedb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fHBoYXJtYWN5fGVufDB8fDB8fHww');
+  background-position: center;
+  background-size: cover;
+  background-size: 100% 80%;
+  font-family: Verdana;
+  color: #fff; 
+  font-size: 12px;
+   
+}
+
+
+.container {
+  max-width: 1000px;
+  margin:  auto;
+  padding: 20px;
+ 
+}
+
+/* Eczane listesi stilleri */
+.eczane-listesi-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+ }
+
+.eczane {
+  width: calc(50% - 10px); /* İki sütunlu grid */
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #070707; /* Yazı rengi */
+}
+
+.eczane h2 {
+  margin-top: 0;
+  color: #fff;
+  font-weight: bold; /* Kalın font */
+}
+
+/* Harita stilleri */
+.harita-container {
+  width: 100%;
+}
+
+/* Footer stilleri */
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  font-weight: bold; 
+}
