@@ -7,7 +7,7 @@ const EczaneHaritasi = () => {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'row-reverse', height: '400px' }}>
-      <LoadScript googleMapsApiKey="AIzaSyDo4sDq-ZrYj0U8jvl24a_IhTz0MO7SXFo">
+      <LoadScript googleMapsApiKey="YOUR_API_KEY">
         <GoogleMap mapContainerStyle={mapContainerStyle} zoom={8} center={defaultCenter} />
       </LoadScript>
     </div>
