@@ -1,5 +1,6 @@
 # React + Vite
 
+https://code16-bitirme-projesi.vercel.app/
 
 In this project, pharmacies on duty in Bursa are listed.
 
