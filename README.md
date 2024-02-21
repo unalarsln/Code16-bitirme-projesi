@@ -1,5 +1,11 @@
 # React + Vite
 
+elements used:
+
+Bootstrap
+json-server
+google map api
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
