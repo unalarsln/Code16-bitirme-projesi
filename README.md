@@ -3,6 +3,7 @@
 
 In this project, pharmacies on duty in Bursa are listed.
 
+## Enter your own Google Map API key for the map to work properly.##
 
 elements used:
 React dom
